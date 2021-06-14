@@ -3,6 +3,8 @@
 SciCal is a android based calculator application that allows user to perform many operations like (Addition, Subtraction ,Multiplication ,Division, Factorial, 
 Square, Square root, Inverse, Log, Ln, sin, cos , tan. etc).
 
+Demo : [SciCal](https://youtu.be/Q_XEPHdNaG4)
+
 # Features
 
 - Arithmetic Calculations
