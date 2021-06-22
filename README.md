@@ -7,18 +7,24 @@ Demo : [SciCal](https://youtu.be/Q_XEPHdNaG4)
 
 # Features
 
+```
 - Arithmetic Calculations
 - Logarithmic Calculations
 - Trigonometric Calculations
+```
 
 # Tools Used
 
+```
 - Android Studio Ide
+```
 
 # Languages Used
 
+```
 - Java 
 - XML
+```
 
 # Preview
 
